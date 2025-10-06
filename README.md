@@ -6,7 +6,7 @@ Olá! Meu nome é **Anderson Pereira Oliveira**. Sou **Desenvolvedor Web Full-St
 ---
 
 ## 🛠️ Tecnologias
-- HTML, CSS, JavaScript 
+- HTML, CSS, JavaScript, ReactJS
 - PHP, MySQL
 - Git, GitHub, VS Code  
 
